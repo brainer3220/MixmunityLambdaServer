@@ -1,0 +1,6 @@
+[submodule "PillDetectServer"]
+	path = PillDetectServer
+	url = https://github.com/brainer3220/PillDetectServerLambda
+[submodule "fater-whisper-docker"]
+	path = fater-whisper-docker
+	url = fater-whisper-docker
