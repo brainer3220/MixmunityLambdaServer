@@ -4,3 +4,6 @@
 [submodule "fater-whisper-docker"]
 	path = fater-whisper-docker
 	url = fater-whisper-docker
+[submodule "PillQueryServer"]
+	path = PillQueryServer
+	url = https://github.com/brainer3220/PillQueryServer
