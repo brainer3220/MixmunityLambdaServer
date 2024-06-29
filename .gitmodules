@@ -7,3 +7,6 @@
 [submodule "PillQueryServer"]
 	path = PillQueryServer
 	url = https://github.com/brainer3220/PillQueryServer
+[submodule "GetVoiceEMR"]
+	path = GetVoiceEMR
+	url = ""
